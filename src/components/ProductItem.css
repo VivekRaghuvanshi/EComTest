@@ -1,0 +1,18 @@
+.productItem{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 380px;
+    display:flex;
+    gap:12px;
+    flex-direction:column;
+}
+.productItemButton{
+    background-color: #F1EF3D;
+    padding: 10px;
+    outline: none;
+    background: none;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+}
